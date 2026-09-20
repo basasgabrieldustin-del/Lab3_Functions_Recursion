@@ -13,6 +13,7 @@ print("Digit Sum:", ID_SUM)
 print("Surname Length:", NAME_LENGTH)
 
 # [CELL 2] FUNCTIONAL ENCAPSULATION
+
 def greet():
     print("=" * 40)
     print(f"System Initialized for: {LAST_NAME}")
